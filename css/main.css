@@ -7,12 +7,12 @@
    background-size: cover ;
 }
 
- .warm {
+ .hot {
   background-image: url(/cubes-03.png);
    background-size: cover;
  }
 
- .hot {
+ .warm {
    background-image: url(/popsicle-02.png);
     background-size: cover;
  }
