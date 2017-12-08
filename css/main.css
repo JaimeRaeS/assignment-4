@@ -1,4 +1,23 @@
 /* ========================================
  * CSS written here will override Tachyons
  * ======================================== */
- 
+
+.cold {
+  background-image: url(/coffee-01.png);
+   background-size: cover ;
+}
+
+ .warm {
+  background-image: url(/cubes-03.png);
+   background-size: cover;
+ }
+
+ .hot {
+   background-image: url(/popsicle-02.png);
+    background-size: cover;
+ }
+
+
+
+}
+ }
